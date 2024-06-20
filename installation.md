@@ -5,6 +5,7 @@ Press the Ctrl + Shift + Esc keys simultaneously.
   
 ![image](https://github.com/wantedweb-kevin/wsl2/assets/79559317/831b85f2-3cf2-4c42-9f55-57dd3132da4c)
 
-  
+<br/>
+
 ## 2. Setting Up Windows Subsystem for Linux.
 ### 2-1. Enable Developer Mode.
