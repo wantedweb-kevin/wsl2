@@ -10,3 +10,16 @@ Press the Ctrl + Shift + Esc keys simultaneously.
 
 ## 2. Setting Up Windows Subsystem for Linux.
 ### 2-1. Enable Developer Mode.
+
+Press the Windows + R keys simultaneously.  
+
+![image](https://github.com/wantedweb-kevin/wsl2/assets/79559317/bfbe9439-0e9a-42de-94d4-3751876fddf3)
+<br/>
+Run command "appwiz.cpl" to open the Programs and Features.  
+<br/>
+![image](https://github.com/wantedweb-kevin/wsl2/assets/79559317/def2b135-7b17-4d27-bc3d-8ae54528b75f)  
+<br/>
+![image](https://github.com/wantedweb-kevin/wsl2/assets/79559317/8a655821-03e8-43cc-b8a0-3d7ec451234b)
+<br/>
+Activate Hyper-V and Windows Subsystem for Linux.
+<br/>
