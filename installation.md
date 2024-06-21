@@ -54,5 +54,4 @@ Reboot once installation is complete.
 explorer.exe .
 ```
 ![image](https://github.com/wantedweb-kevin/wsl2/assets/79559317/b1a81aaa-e02e-4120-ab26-d301111740e7)
-![image](https://github.com/wantedweb-kevin/wsl2/assets/79559317/6c7fa2e5-9ee6-469f-b023-138a567144c5)
-
+![image](https://github.com/wantedweb-kevin/wsl2/assets/79559317/481e9ba2-593c-4303-99b0-2a78b5b22a86)
